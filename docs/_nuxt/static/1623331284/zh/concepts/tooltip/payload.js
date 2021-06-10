@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/zh/concepts/tooltip", (function(a){return {data:[{article:{slug:"tooltip",toc:[],body:{type:"root",children:[]},dir:"\u002Fzh\u002Fconcepts",path:"\u002Fzh\u002Fconcepts\u002Ftooltip",extension:".md",createdAt:a,updatedAt:a},postPath:"zh\u002Fconcepts\u002Ftooltip"}],fetch:{},mutations:[]}}("2021-06-10T13:19:59.316Z")));

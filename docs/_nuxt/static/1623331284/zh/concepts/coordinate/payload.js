@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/zh/concepts/coordinate", (function(a){return {data:[{article:{slug:"coordinate",toc:[],body:{type:"root",children:[]},dir:"\u002Fzh\u002Fconcepts",path:"\u002Fzh\u002Fconcepts\u002Fcoordinate",extension:".md",createdAt:a,updatedAt:a},postPath:"zh\u002Fconcepts\u002Fcoordinate"}],fetch:{},mutations:[]}}("2021-06-10T13:19:59.312Z")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/zh/best-practice/mobile", (function(a){return {data:[{article:{slug:"mobile",toc:[],body:{type:"root",children:[]},dir:"\u002Fzh\u002Fbest-practice",path:"\u002Fzh\u002Fbest-practice\u002Fmobile",extension:".md",createdAt:a,updatedAt:a},postPath:"zh\u002Fbest-practice\u002Fmobile"}],fetch:{},mutations:[]}}("2021-06-10T13:19:59.312Z")));
